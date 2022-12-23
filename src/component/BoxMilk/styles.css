@@ -1,0 +1,39 @@
+.milk {
+    display: flex;
+    margin: 50px;
+
+}
+
+.milkHeader {
+    color: black;
+    font-size: 40px;
+    font-weight: bolder;
+    margin: 20px;
+    padding: 20px;
+}
+
+.milkContent {
+    /* display: flex; */
+}
+.milkParagraph {
+    color: gray;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.milkPrice {
+    color:black;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.button {
+    color: white;
+    font-weight: bolder;
+    background-color: turquoise;
+    border-radius: 40px;
+    width: 10%;
+    height: 15%;
+    padding: auto;
+    border-style: none;
+}
